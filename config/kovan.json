@@ -1,16 +1,16 @@
 {
     "network": "kovan",
-    "factory_address": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
-    "masterchef_address": "0x80c7dd17b01855a6d2347444a0fcc36136a314de",
-    "sushi_bar_address": "0x1be211d8da40bc0ae8719c6663307bfc987b1d6c",
-    "sushi_maker_address": "0x1b9d177ccdea3c79b6c8f40761fc8dc9d0500eaa",
-    "sushi_address": "0x0769fd68dfb93167989c6f7254cd0d766fb2841f",
+    "factory_address": "0xF2C8d83Cd7A6Cd422a4aB110b1E71b7d36E8233c",
+    "masterchef_address": "0x41748B002eDA8Da6132E3ea0CD1d01495d1fb047",
+    "sushi_bar_address": "0x1132b1e57C99d03A947F1f3fc8e37De80144E6CC",
+    "sushi_maker_address": "0xe05EBe7BA3424fE86dF31263B37f990AE0662E3B",
+    "sushi_address": "0xFD7faC133cb7B55138991B32916a6Bb796c521F5",
     "weth_address": "0xc778417e063141139fce010982780140aa0cd5ab",
     "uniswap_factory_address": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
     "minimum_usd_threshold_new_pairs": "3000",
     "minimum_liquidity_threshold_eth": "1000",
     "factory": {
-        "address": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+        "address": "0xF2C8d83Cd7A6Cd422a4aB110b1E71b7d36E8233c",
         "startBlock": "23647588"
     }
 }
